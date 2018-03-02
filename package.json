@@ -1,0 +1,17 @@
+{
+  "name": "alm_release",
+  "version": "1.0.0",
+  "description": "release tool of alm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "linchengxiang",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
