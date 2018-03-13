@@ -9,7 +9,13 @@
   "author": "linchengxiang",
   "license": "ISC",
   "dependencies": {
-    "dateformat": "^3.0.3"
+    "moment": "^2.21.0",
+    "npm": "^5.7.1",
+    "through2": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LynnlikeLin/alm_release"
   },
   "devDependencies": {
     "gulp": "^3.9.1"

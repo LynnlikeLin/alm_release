@@ -1,0 +1,2 @@
+../test/t/tt/a.class
+../test/b.class
